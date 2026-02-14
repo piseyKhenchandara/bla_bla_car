@@ -1,4 +1,4 @@
-import 'package:blabla/ui/screens/ride_pref/rides_preferences_screen.dart';
+import 'package:blabla/ui/screens/rides_preferences_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
